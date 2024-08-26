@@ -1,2 +1,2 @@
 # YouTube-downloader-telegram-bot
-Телеграм бот на python умеющий скачивать видео с youtube.
+YouTube videos telegram downloader bot
